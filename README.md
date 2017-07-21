@@ -1,5 +1,6 @@
 # [MMO] Visitor
 
 Inserts a username:
-- threads
-- conversation
+- Threads
+- Conversation
+- Signature

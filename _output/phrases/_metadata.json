@@ -1,1 +1,26 @@
-[]
+{
+    "custom_bb_code_desc.visitor.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "3b7c241e57604dbdb058d4d3bfd40b46"
+    },
+    "custom_bb_code_example.visitor.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "0a8e887385d241ddd9bb250a03099787"
+    },
+    "custom_bb_code_output.visitor.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "custom_bb_code_title.visitor.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "d631059a9290736e0e46147bbc6d2818"
+    }
+}

@@ -1,0 +1,1 @@
+[visitor][/visitor] - Displays the name of the user who views the page. If the user is viewing the page, is not authorized - will insert the word "Guest".
