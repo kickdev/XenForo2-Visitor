@@ -1,0 +1,9 @@
+{
+    "title": "[MMO] Visitor",
+	"description": "Add-on adds the tag [visitor][/visitor].",
+    "version_string": "2.0.0",
+    "version_id": 2000070,
+	"dev": "kick | Captain",
+	"dev_url": "https://mmo-develop.ru",
+	"icon" : "fa-meetup"
+}
